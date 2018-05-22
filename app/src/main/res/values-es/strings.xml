@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sólo Java</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Ordenar</string>
+    <string name="whippedCreamString">"Agregue la crema batida? "</string>
+    <string name="chocolateString">Agregue el chocolate?</string>
+    <string name="quantityString">"Cantidad: "</string>
+    <string name="price">"Total: "</string>
+    <string name="thankYou">¡Gracias!</string>
+    <string name="name">Nombre:</string>
+    <string name="enterYourName">Nombre</string>
+</resources>
